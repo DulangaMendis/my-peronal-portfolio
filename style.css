@@ -235,7 +235,7 @@ section .title::after{
     margin-bottom: 10px;
 }
 .about .about-content .right .text span{
-    color: rgb(17, 48, 3);
+    color: rgb(55, 182, 10);
 }
 .about .about-content .right p{
     text-align: justify;
@@ -253,7 +253,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .about .about-content .right a:hover{
-    color: rgb(13, 92, 7);
+    color: rgb(10, 35, 0);
     background: none;
 }
 
